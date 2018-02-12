@@ -152,6 +152,8 @@ $options["lang"] = "cpp";
 //$options["lang"] = "js";
 //$options["lang"] = "python";
 //$options["lang"] = "ruby";
+//$options["lang"] = "autoit";
+//$options["lang"] = "powershell";
 //$options["lang"] = "haskell";
 //$options["lang"] = "masm";
 //$options["lang"] = "fasm";
@@ -197,7 +199,7 @@ if ($result != false)
 		// decompress the output source code
 		if ($options["compression"] == true)
 		{
-			$source = @gzuncompress(@base64_decode($source));
+			$source = @gzuncompress(@base64_decode($result["source"]));
 		}
 		else
 		{

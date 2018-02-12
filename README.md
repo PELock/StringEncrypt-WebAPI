@@ -11,4 +11,4 @@ Our API is based on POST requests and JSON encoded response.
 In our PHP example, first you have to setup configuration array $options = array();, specify API command to execute and call stringencrypt() function that will return $result array.
 
 Bartosz Wójcik
-http://www.pelock.com
+https://www.pelock.com

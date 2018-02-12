@@ -4,7 +4,7 @@
 //
 // StringEncrypt.com Web API usage example
 //
-// Version        : v1.1
+// Version        : v1.2
 // Language       : PHP
 // Author         : Bartosz Wójcik
 // Web page       : https://www.stringencrypt.com
@@ -152,6 +152,8 @@ $options["lang"] = "cpp";
 //$options["lang"] = "js";
 //$options["lang"] = "python";
 //$options["lang"] = "ruby";
+//$options["lang"] = "autoit";
+//$options["lang"] = "powershell";
 //$options["lang"] = "haskell";
 //$options["lang"] = "masm";
 //$options["lang"] = "fasm";
