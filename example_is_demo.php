@@ -4,7 +4,7 @@
 //
 // StringEncrypt.com Web API usage example
 //
-// Version        : v1.2
+// Version        : v1.3
 // Language       : PHP
 // Author         : Bartosz Wójcik
 // Web page       : https://www.stringencrypt.com
