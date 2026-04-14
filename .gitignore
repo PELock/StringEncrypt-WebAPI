@@ -17,6 +17,13 @@ $RECYCLE.BIN/
 # Windows shortcuts
 *.lnk
 
+# Composer
+/vendor/
+composer.lock
+
+# PHP
+.phpunit.result.cache
+
 # =========================
 # Operating System Files
 # =========================

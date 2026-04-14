@@ -1,0 +1,38 @@
+{
+    "name": "pelock/stringencrypt",
+    "description": "Official PHP client for the StringEncrypt.com Web API — generate polymorphic decryptors for many programming languages.",
+    "type": "library",
+    "license": "Apache-2.0",
+    "keywords": [
+        "stringencrypt",
+        "encryption",
+        "obfuscation",
+        "api-client",
+        "code-generation"
+    ],
+    "homepage": "https://www.stringencrypt.com",
+    "authors": [
+        {
+            "name": "Bartosz Wójcik",
+            "homepage": "https://www.pelock.com"
+        }
+    ],
+    "require": {
+        "php": "^8.1",
+        "ext-json": "*",
+        "ext-zlib": "*"
+    },
+    "suggest": {
+        "ext-curl": "Recommended for more reliable HTTP in production."
+    },
+    "autoload": {
+        "psr-4": {
+            "StringEncrypt\\": "src/"
+        }
+    },
+    "config": {
+        "sort-packages": true
+    },
+    "minimum-stability": "stable",
+    "prefer-stable": true
+}
