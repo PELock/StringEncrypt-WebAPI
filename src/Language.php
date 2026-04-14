@@ -9,7 +9,6 @@ namespace StringEncrypt;
  */
 enum Language: string
 {
-    case C = 'c';
     case Cpp = 'cpp';
     case CSharp = 'csharp';
     case VbNet = 'vbnet';
