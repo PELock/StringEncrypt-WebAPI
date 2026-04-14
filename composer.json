@@ -1,5 +1,6 @@
 {
     "name": "pelock/stringencrypt",
+    "version": "1.0.1",
     "description": "Official PHP client for the StringEncrypt.com Web API — generate polymorphic decryptors for many programming languages.",
     "type": "library",
     "license": "Apache-2.0",
