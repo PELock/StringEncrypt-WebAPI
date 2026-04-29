@@ -14,6 +14,7 @@ StringEncrypt can be used:
 * You can download standalone Windows client - https://www.stringencrypt.com/download/
 * You can use it via WebAPI interface https://www.stringencrypt.com/api/
 * Visual Studio Code extension - https://marketplace.visualstudio.com/items?itemName=PELock.stringencrypt
+* VS Code based editors (like Cursor etc.) - https://open-vsx.org/extension/PELock/stringencrypt
 
 ## Plain text PHP string
 
